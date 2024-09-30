@@ -1,0 +1,17 @@
+{
+  "name": "task-2",
+  "version": "1.0.0",
+  "main": "server.js",
+   "type":"module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Sakshi Goswami",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "express": "^4.21.0"
+  }
+}
